@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+PySerial
+jupyterlab
+matplotlib
+seaborn
+sympy
+jax
+cvxpy
+nbconvert
