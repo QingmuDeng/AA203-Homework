@@ -1,0 +1,9 @@
+[submodule "AA203-Examples"]
+	path = AA203-Examples
+	url = https://github.com/StanfordASL/AA203-Examples.git
+[submodule "AA203-Homework"]
+	path = AA203-Homework
+	url = https://github.com/StanfordASL/AA203-Homework.git
+[submodule "cvxpy_examples"]
+	path = cvxpy_examples
+	url = git@github.com:danielpmorton/cvxpy_examples.git
