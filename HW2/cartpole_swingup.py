@@ -121,7 +121,9 @@ def ilqr(f, s0, s_goal, N, Q, R, QN, eps=1e-3, max_iters=1000):
         # Forward Pass
 
 
-
+        q_n = 2 * QN.T @ (s[-1] - s_bar[-1]) # ds = s_k - s_bar_k
+        q_k = 2 * Q.T @ (s[k] - s_bar[k])
+        r_k = 2 * R.T @ (u[k] - u_bar[k])
         raise NotImplementedError()
         #######################################################################
 
