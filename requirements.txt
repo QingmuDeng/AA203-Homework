@@ -9,3 +9,4 @@ sympy
 jax
 cvxpy
 nbconvert
+# python -m pip install jax-metal # for apple silicon
