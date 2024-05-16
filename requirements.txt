@@ -9,3 +9,8 @@ sympy
 jax
 cvxpy
 nbconvert
+ipywidgets
+tqdm
+ffmpeg-python
+hj-reachability
+plotly
