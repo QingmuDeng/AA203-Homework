@@ -14,3 +14,4 @@ tqdm
 ffmpeg-python
 hj-reachability
 plotly
+# python -m pip install jax-metal # for apple silicon
