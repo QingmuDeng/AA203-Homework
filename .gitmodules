@@ -7,3 +7,6 @@
 [submodule "cvxpy_examples"]
 	path = cvxpy_examples
 	url = git@github.com:danielpmorton/cvxpy_examples.git
+[submodule "trajax"]
+	path = trajax
+	url = https://github.com/google/trajax.git
